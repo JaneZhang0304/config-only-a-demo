@@ -2,4 +2,4 @@ data:
   env: localhost-dev
   user:
     username: dev
-    password: dev
+    password: dev123456
